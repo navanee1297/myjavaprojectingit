@@ -31,7 +31,7 @@ public class LoginPage {
         panel.add(passwordField);
         panel.add(new JLabel(""));
         panel.add(loginButton);
-        panel.add(clearButton);
+        
 
 
         frame.add(panel);
